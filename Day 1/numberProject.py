@@ -1,0 +1,13 @@
+import random
+name1=input("Enter First Name: ")
+randomNumber1=random.randint(0,5)
+name2=input("Enter Second Name: ")
+randomNumber2=random.randint(0,5)
+name3=input("Enter Third Name: ")
+randomNumber3=random.randint(0,5)
+name4=input("Enter Fourth Name: ")
+randomNumber4=random.randint(0,5)
+print(name1,"Got a value of ",randomNumber1)
+print(name2,"Got a value of ",randomNumber2)
+print(name3,"Got a value of ",randomNumber3)
+print(name4,"Got a value of ",randomNumber4)
