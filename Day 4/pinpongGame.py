@@ -47,6 +47,6 @@ screen.onkeypress(paddle1Down,"s")
 screen.onkeypress(paddle1Up,"w")
 screen.onkeypress(paddle2Up,"Up")
 screen.onkeypress(paddle2Down,"Down")
-
+print("Start")
 while(1):
     screen.update()
