@@ -1,0 +1,1 @@
+Laptop display has been bricked.So going to take a short break
